@@ -1,3 +1,5 @@
+# xShopping-MCP — Open Standard for Backend-Driven AI Commerce
+
 # Shopping Agent Protocol (SAP)  
 An open protocol for AI agents to interact with e-commerce platforms securely and seamlessly.
 
