@@ -1,0 +1,17 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": {
+        "total_balance": 15420,
+        "regular_points": 12000,
+        "limited_points": [
+          {
+            "amount": 3420,
+            "expiry_date": "2026-03-31"
+          }
+        ]
+      }
+    }
+  ]
+}
