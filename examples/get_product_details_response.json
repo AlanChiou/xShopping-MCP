@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": {
+        "item_code": "rakuten-123456789",
+        "name": "Uniqlo Ultra Light Down Jacket Black",
+        "price": 5990,
+        "currency": "JPY",
+        "point_rate": 10,
+        "point_multiplier": 20,
+        "description": "Ultra-light, packable down jacket with excellent warmth-to-weight ratio.",
+        "images": [
+          "https://item.rakuten.co.jp/uniqlo/123456789/img1.jpg",
+          "https://item.rakuten.co.jp/uniqlo/123456789/img2.jpg"
+        ],
+        "specs": {
+          "material": "Nylon + 90% Down",
+          "weight": "250g",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        "shipping_info": "Free shipping on orders over 3,980 JPY",
+        "availability": "in_stock",
+        "review_score": 4.6,
+        "review_count": 342
+      }
+    }
+  ]
+}
