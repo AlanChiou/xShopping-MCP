@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": {
+        "results": [
+          {
+            "item_code": "rakuten-123456789",
+            "name": "Uniqlo Ultra Light Down Jacket Black",
+            "price": 5990,
+            "currency": "JPY",
+            "point_rate": 10,
+            "point_multiplier": 20,
+            "image_urls": [
+              "https://item.rakuten.co.jp/uniqlo/123456789/img1.jpg",
+              "https://item.rakuten.co.jp/uniqlo/123456789/img2.jpg"
+            ],
+            "item_url": "https://item.rakuten.co.jp/uniqlo/123456789/",
+            "affiliate_url": "https://item.rakuten.co.jp/uniqlo/123456789/?scid=af_pc_link",
+            "availability": "in_stock",
+            "review_score": 4.6,
+            "review_count": 342
+          },
+          {
+            "item_code": "rakuten-987654321",
+            "name": "Montbell Light Down Jacket",
+            "price": 5500,
+            "currency": "JPY",
+            "point_rate": 15,
+            "point_multiplier": 25,
+            "image_urls": ["https://item.rakuten.co.jp/montbell/987654321/img1.jpg"],
+            "item_url": "https://item.rakuten.co.jp/montbell/987654321/",
+            "affiliate_url": "https://item.rakuten.co.jp/montbell/987654321/?scid=af_pc_link",
+            "availability": "in_stock",
+            "review_score": 4.8,
+            "review_count": 128
+          }
+        ],
+        "total_hits": 1245,
+        "page": 1,
+        "hits": 10
+      }
+    }
+  ]
+}
