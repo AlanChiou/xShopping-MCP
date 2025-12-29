@@ -1,0 +1,6 @@
+{
+  "tool": "generate_affiliate_link",
+  "parameters": {
+    "item_url": "https://item.rakuten.co.jp/uniqlo/123456789/"
+  }
+}
