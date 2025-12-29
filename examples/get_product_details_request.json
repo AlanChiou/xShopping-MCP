@@ -1,0 +1,6 @@
+{
+  "tool": "get_product_details",
+  "parameters": {
+    "item_code": "rakuten-123456789"
+  }
+}
