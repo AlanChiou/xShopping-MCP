@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": {
+        "affiliate_url": "https://item.rakuten.co.jp/uniqlo/123456789/?scid=af_pc_link&rafcid=1234567890",
+        "expected_points": 1198,
+        "campaign_info": "20× points campaign active until 2025-12-31"
+      }
+    }
+  ]
+}
