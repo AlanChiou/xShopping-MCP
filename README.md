@@ -67,6 +67,12 @@ This project is licensed under the Apache License, Version 2.0.
 
 See the [LICENSE](LICENSE) file for details.
 
+## Disclaimer
+
+This is a personal open-source project and is not affiliated with, endorsed by, or sponsored by my employer (Rakuten) or any other company.  
+The design is inspired by publicly observable features of various e-commerce platforms, including Rakuten Ichiba.  
+No confidential information or internal code has been used.
+
 ---
 
 Built with ❤️ for the future of agentic commerce.  
